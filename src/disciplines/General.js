@@ -2,7 +2,7 @@ const General = {
     'General Information': [
         { name: 'Title of the dataset / Titre de la base de données', type: 'small' },
         { name: 'Description', type: 'large' },
-        { name: 'Date of data collection / Date de la collecte des données', type: 'small' },
+        { name: 'Date of data collection / Date de la collecte des données:', type: 'date' },
     ],
     'Author Information': [
         { name: 'Name (Last name, name) / Nom (nom de famille, nom)', type: 'small' },
